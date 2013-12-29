@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" filepath="$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hellodjango.iml" filepath="$PROJECT_DIR$/.idea/hellodjango.iml" />
     </modules>
   </component>

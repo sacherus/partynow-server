@@ -1,9 +1,21 @@
 __author__ = 'sacherus'
-
+from django.contrib.auth.models import User
 from rest_framework import serializers
+from models import Party
 
 
-class PartySerializer(serializers.Serializer):
-    title = serializers.CharField(required=True,
-                                  max_length=100)
+class PartySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Party
+        fields = ('id', 'title',)
+
+
+
+
+
+
+class UserSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ('id', 'username',)
 

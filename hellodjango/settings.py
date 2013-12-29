@@ -39,6 +39,7 @@ INSTALLED_APPS = (
 
     #modules
     'rest_framework',
+    'south',
 
     #my modules
     'party',
