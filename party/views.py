@@ -9,7 +9,7 @@ from rest_framework import generics
 
 
 def index(request):
-    output="Hello"
+    output="Hello2"
     return HttpResponse(output)
 
 
