@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f65700f-30e4-499c-95f4-b90ad8fd513b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/party/urls.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/auth/views (Piotr Woznewok's conflicted copy 2012-12-20 (1)).py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/auth/views (Piotr Woznewok's conflicted copy 2012-12-20).py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/AUTHORS" afterPath="" />
@@ -562,7 +560,6 @@
       <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/medialibrary/2012/12/test.css" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/style.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/database.sq3" afterPath="$USER_HOME$/projects/psi_project/database.sq3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/fein_cms/templates/base.html" afterPath="$USER_HOME$/projects/psi_project/fein_cms/templates/base.html" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" afterPath="$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/hellodjango.iml" afterPath="$PROJECT_DIR$/.idea/hellodjango.iml" />
@@ -574,6 +571,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/fein_cms/settings.py" afterPath="$USER_HOME$/projects/psi_project/fein_cms/settings.py" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/fein_cms/templates/highlight/show.html" afterPath="$USER_HOME$/projects/psi_project/fein_cms/templates/highlight/show.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hellodjango/urls.py" afterPath="$PROJECT_DIR$/hellodjango/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party/urls.py" afterPath="$PROJECT_DIR$/party/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party/views.py" afterPath="$PROJECT_DIR$/party/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -599,10 +597,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hellodjango/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="12" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1680">
+            <state line="75" column="1" selection-start="1877" selection-end="1877" vertical-scroll-proportion="0.52069426" vertical-offset="735" max-vertical-offset="1950">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/party/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="1" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -611,49 +618,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hellodjango/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="43" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="serializers.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/party/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-              <folding>
-                <element signature="e#24#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/party/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="37" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/party/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="5" selection-start="185" selection-end="185" vertical-scroll-proportion="0.18024032" vertical-offset="0" max-vertical-offset="749">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/party/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="35" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+            <state line="13" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
@@ -677,15 +642,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/hellodjango/wsgi.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/hellodjango/urls.py" />
-        <option value="$PROJECT_DIR$/party/serializers.py" />
-        <option value="$PROJECT_DIR$/party/views.py" />
         <option value="$PROJECT_DIR$/party/urls.py" />
-        <option value="$PROJECT_DIR$/hellodjango/settings.py" />
+        <option value="$PROJECT_DIR$/party/serializers.py" />
+        <option value="$USER_HOME$/tutorial/tutorial/urls.py" />
+        <option value="$USER_HOME$/tutorial/snippets/models.py" />
+        <option value="$USER_HOME$/tutorial/snippets/permission.py" />
+        <option value="$USER_HOME$/tutorial/snippets/serializers.py" />
+        <option value="$USER_HOME$/tutorial/tutorial/settings.py" />
+        <option value="$USER_HOME$/tutorial/snippets/views.py" />
+        <option value="$USER_HOME$/tutorial/snippets/urls.py" />
+        <option value="$PROJECT_DIR$/auth/urls.py" />
+        <option value="$PROJECT_DIR$/auth/views.py" />
         <option value="$PROJECT_DIR$/party/models.py" />
+        <option value="$PROJECT_DIR$/party/views.py" />
+        <option value="$PROJECT_DIR$/hellodjango/urls.py" />
+        <option value="$PROJECT_DIR$/hellodjango/settings.py" />
       </list>
     </option>
   </component>
@@ -721,50 +693,13 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="hellodjango" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psi_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psi_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="highlight" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psi_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fein_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -791,40 +726,69 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.lastSelected" value="editor.preferences.import" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/projects/psi_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings />
+      <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="NERKing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/project3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/project3/NERKing.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/cw9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cw9" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/cw9/main.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -978,7 +942,16 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.NERKing" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NERKing" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
@@ -1004,27 +977,45 @@
       <created>1388088629384</created>
       <updated>1388088629384</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed model">
+      <created>1389111946119</created>
+      <updated>1389111946119</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed model">
+      <created>1389112294189</created>
+      <updated>1389112294189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test views">
+      <created>1389112569978</created>
+      <updated>1389112569978</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test views">
+      <created>1389112825084</created>
+      <updated>1389112825084</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1537" height="905" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10944626" sideWeight="0.74678665" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45407167" sideWeight="0.74678665" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25321338" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2616202" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1037,107 +1028,100 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Changed model" />
+    <MESSAGE value="Test views" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test views" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hellodjango/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.5630027" vertical-offset="0" max-vertical-offset="373" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.40214476" vertical-offset="0" max-vertical-offset="373">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="749" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="5" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/projects/psi_project/auth/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="749" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/projects/psi_project/auth/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/projects/psi_project/fein_cms/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3660" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/projects/psi_project/highlight/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="749" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/projects/psi_project/highlight/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="17" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-16.8" vertical-offset="0" max-vertical-offset="945" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/projects/psi_project/fein_cms/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1570" selection-end="1570" vertical-scroll-proportion="-6.322222" vertical-offset="316" max-vertical-offset="975" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="35" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/party/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <folding>
-            <element signature="e#24#67#0" expanded="true" />
-          </folding>
+        <state line="14" column="1" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hellodjango/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="43" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
+        <state line="19" column="31" selection-start="760" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tutorial/tutorial/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tutorial/snippets/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="15" selection-start="1043" selection-end="1054" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tutorial/snippets/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="41" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tutorial/tutorial/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="1" selection-start="2059" selection-end="2059" vertical-scroll-proportion="0.0" vertical-offset="625" max-vertical-offset="1395" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/projects/psi_project/auth/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1432" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tutorial/snippets/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="496" selection-end="496" vertical-scroll-proportion="0.2631579" vertical-offset="0" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/projects/psi_project/fein_cms/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1086" selection-end="1332" vertical-scroll-proportion="-9.0" vertical-offset="315" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tutorial/snippets/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="22" selection-start="987" selection-end="987" vertical-scroll-proportion="0.35914552" vertical-offset="76" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/party/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="43" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/party/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="749" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/party/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="53" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/party/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hellodjango/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="600">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hellodjango/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="12" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="185" selection-end="185" vertical-scroll-proportion="0.18024032" vertical-offset="0" max-vertical-offset="749">
+        <state line="75" column="1" selection-start="1877" selection-end="1877" vertical-scroll-proportion="0.52069426" vertical-offset="735" max-vertical-offset="1950">
           <folding />
         </state>
       </provider>

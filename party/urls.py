@@ -9,7 +9,7 @@ urlpatterns = patterns('',
     # url(r'^blog/', include('blog.urls')),
     #url(r'^party/', include('party.urls')),
     url(r'^index$', index),
-    #url(r'^users/$', UserList.as_view()),
+    url(r'^users/$', UserList.as_view()),
     url(r'^(?P<pk>\d+)$', PartyDetail.as_view(), name='party-detail'),
     url(r'^$', PartyList.as_view()),
 )

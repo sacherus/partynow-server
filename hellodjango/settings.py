@@ -38,7 +38,13 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
 
     #modules
+    #rest modules
     'rest_framework',
+    #'rest_framework.authtoken',
+    'provider',
+    'provider.oauth2',
+
+    #other modules
     'south',
 
     #my modules
@@ -92,6 +98,8 @@ STATIC_URL = '/static/'
 import dj_database_url
 DATABASES['default'] =  dj_database_url.config(default='sqlite:///'+os.path.join(BASE_DIR, 'sqlite3.db'))
 
+
+
 # Honor the 'X-Forwarded-Proto' header for request.is_secure()
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
@@ -105,3 +113,12 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework.authentication.BasicAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.OAuth2Authentication',
+    )
+}
+
