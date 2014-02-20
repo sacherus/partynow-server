@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Desktop/cw8/.idea/cw8.iml" filepath="$USER_HOME$/Desktop/cw8/.idea/cw8.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/cw9/.idea/cw9.iml" filepath="$USER_HOME$/Desktop/cw9/.idea/cw9.iml" />
-      <module fileurl="file://$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" filepath="$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hellodjango.iml" filepath="$PROJECT_DIR$/.idea/hellodjango.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/project3/.idea/project3.iml" filepath="$USER_HOME$/Desktop/project3/.idea/project3.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/projekt2/.idea/projekt2.iml" filepath="$USER_HOME$/Desktop/projekt2/.idea/projekt2.iml" />
-      <module fileurl="file://$USER_HOME$/tutorial/.idea/tutorial.iml" filepath="$USER_HOME$/tutorial/.idea/tutorial.iml" />
     </modules>
   </component>
 </project>

@@ -12,4 +12,5 @@ urlpatterns = patterns('',
     url(r'^users/$', UserList.as_view()),
     url(r'^(?P<pk>\d+)$', PartyDetail.as_view(), name='party-detail'),
     url(r'^$', PartyList.as_view()),
+    url(r'^users/register', 'party.views.create_auth'),
 )
