@@ -8,7 +8,7 @@ class PartySerializer(serializers.ModelSerializer):
     class Meta:
         model = Party
         fields = ('id', 'title', 'start', 'end', 'organizers', 'participants',
-                  'is_private', 'longitude', 'latitude')
+                  'is_private', 'longitude', 'latitude', 'description')
 
 
 class UserSerializer(serializers.ModelSerializer):

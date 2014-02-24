@@ -1,14 +1,15 @@
 from django.contrib.auth.models import User
 from django.http import HttpResponse
-
+from django.shortcuts import redirect
 # Create your views here.
 from party.models import Party
 from party.serializers import PartySerializer, UserSerializer
-from rest_framework import generics, permissions
+from rest_framework import generics
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
-
+from django.http import HttpResponseRedirect
+from django.core.urlresolvers import reverse
 
 def index(request):
     output="Hello2"
@@ -31,6 +32,7 @@ class PartyList(generics.ListCreateAPIView):
     def post_save(self, obj, created):
         obj.organizers.add(self.request.user)
         obj.save()
+
 
 class PartyDetail(generics.RetrieveUpdateDestroyAPIView):
     model = Party
@@ -58,3 +60,19 @@ def create_auth(request):
         return Response(serialized.data, status=status.HTTP_201_CREATED)
     else:
         return Response(serialized._errors, status=status.HTTP_400_BAD_REQUEST)
+
+@api_view(['GET'])
+def join(request, pk):
+    id = int(pk)
+    party = Party.objects.get(id=id)
+    user = request.user
+    party.participants.add(user)
+    party.save()
+    return HttpResponseRedirect(reverse('party-detail', kwargs={'pk': party.pk}))
+
+@api_view(['GET'])
+def organizer(request, pk):
+    party = Party.objects.get(id=int(pk))
+    party.organizers.add(request.user)
+    party.save()
+    return HttpResponseRedirect(reverse('party-detail', kwargs={'pk': party.pk}))

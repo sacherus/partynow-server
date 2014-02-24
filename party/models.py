@@ -15,6 +15,7 @@ class Party(models.Model):
     start = models.DateField(auto_now_add=True, blank=True, null=True)
     end = models.DateField(blank=True, null=True)
     title = models.CharField(blank=True, max_length=255, default="Let's party now!")
+    description = models.CharField(blank=True, null=True, max_length=1000, default="Example description")
     is_private = models.BooleanField(blank=True, default=True)
     longitude = models.FloatField(blank=True, null=True)
     latitude = models.FloatField(blank=True, null=True)
