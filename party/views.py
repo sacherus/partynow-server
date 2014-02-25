@@ -76,3 +76,8 @@ def organizer(request, pk):
     party.organizers.add(request.user)
     party.save()
     return HttpResponseRedirect(reverse('party-detail', kwargs={'pk': party.pk}))
+
+@api_view(['GET'])
+def my_user_data(request):
+    user = request.user
+    return HttpResponseRedirect(reverse('user-detail', kwargs={'pk': user.pk}))

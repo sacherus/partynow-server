@@ -12,8 +12,8 @@ class PartyManager(models.Manager):
 class Party(models.Model):
     participants = models.ManyToManyField(User, blank=True, null=True, related_name="organize_party_set")
     organizers = models.ManyToManyField(User, blank=True, related_name="participate_party_set")
-    start = models.DateField(auto_now_add=True, blank=True, null=True)
-    end = models.DateField(blank=True, null=True)
+    start = models.DateTimeField(auto_now_add=True, blank=True, null=True, )
+    end = models.DateTimeField(blank=True, null=True)
     title = models.CharField(blank=True, max_length=255, default="Let's party now!")
     description = models.CharField(blank=True, null=True, max_length=1000, default="Example description")
     is_private = models.BooleanField(blank=True, default=True)

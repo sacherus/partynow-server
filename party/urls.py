@@ -1,6 +1,6 @@
 from django.conf.urls import patterns, include, url
 from party.views import join, organizer
-from views import index, PartyList, PartyDetail, UserList
+from views import index, PartyList, PartyDetail, UserList, UserDetail, my_user_data
 
 __author__ = 'sacherus'
 
@@ -14,6 +14,8 @@ urlpatterns = patterns('',
     url(r'^(?P<pk>\d+)/join$', join),
     url(r'^(?P<pk>\d+)/organize$', organizer),
     url(r'^(?P<pk>\d+)$', PartyDetail.as_view(), name='party-detail'),
+    url(r'^users/(?P<pk>\d+)$', UserDetail.as_view(), name='user-detail'),
+    url(r'^users/me$', my_user_data),
     url(r'^$', PartyList.as_view()),
     url(r'^users/register', 'party.views.create_auth'),
 )
