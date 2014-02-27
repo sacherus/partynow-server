@@ -31,6 +31,7 @@ class PartyList(generics.ListCreateAPIView):
 
     def post_save(self, obj, created):
         obj.organizers.add(self.request.user)
+        obj.participants.add(self.request.user)
         obj.save()
 
 
