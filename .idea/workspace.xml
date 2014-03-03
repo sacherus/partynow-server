@@ -1,574 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/party/models.py" line="23" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f65700f-30e4-499c-95f4-b90ad8fd513b" name="Default" comment="">
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/auth/views (Piotr Woznewok's conflicted copy 2012-12-20 (1)).py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/auth/views (Piotr Woznewok's conflicted copy 2012-12-20).py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/AUTHORS" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/MANIFEST.in" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/README.rst" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/management/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/management/commands/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/management/commands/debugsqlshell.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/css/._toolbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/css/toolbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/css/toolbar.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/back_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/close_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/djdt_vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/dot.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/indicator.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/img/panel_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/js/._jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/js/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/js/toolbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/media/debug_toolbar/js/toolbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/middleware.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/cache.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/headers.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/logger.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/profiling.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/request_vars.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/settings_vars.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/signals.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/sql.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/template.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/timer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/panels/version.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/._profiling.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/._sql.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/._sql_explain.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/._sql_profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/._sql_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/cache.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/headers.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/logger.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/profiling.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/request_vars.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/settings_vars.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/signals.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/sql.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/sql_explain.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/sql_profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/sql_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/template_source.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/templates.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/timer.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/panels/versions.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templates/debug_toolbar/redirect.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templatetags/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/templatetags/debug_toolbar_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/toolbar/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/toolbar/loader.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/compat/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/compat/db.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/engine/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/engine/filter.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/engine/grouping.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/formatter.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/keywords.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/lexer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/sql.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/sqlparse/tokens.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/tracking/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/utils/tracking/db.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/build/lib.linux-x86_64-2.7/debug_toolbar/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/.___init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/._models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/._urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/management/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/management/commands/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/management/commands/debugsqlshell.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/css/._toolbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/css/toolbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/css/toolbar.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/back_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/close_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/djdt_vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/dot.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/indicator.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/img/panel_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/js/._jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/js/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/js/toolbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/media/debug_toolbar/js/toolbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/middleware.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/cache.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/headers.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/logger.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/profiling.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/request_vars.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/settings_vars.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/signals.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/sql.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/template.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/timer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/panels/version.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/._profiling.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/._sql.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/._sql_explain.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/._sql_profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/._sql_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/cache.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/headers.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/logger.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/profiling.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/request_vars.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/settings_vars.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/signals.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/sql.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/sql_explain.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/sql_profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/sql_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/template_source.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/templates.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/timer.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/panels/versions.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templates/debug_toolbar/redirect.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templatetags/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/templatetags/debug_toolbar_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/toolbar/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/toolbar/loader.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/compat/.___init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/compat/._db.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/compat/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/compat/db.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/engine/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/engine/filter.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/engine/grouping.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/formatter.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/keywords.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/lexer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/sql.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/sqlparse/tokens.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/tracking/.___init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/tracking/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/utils/tracking/db.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/debug_toolbar/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/django_debug_toolbar.egg-info/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/django_debug_toolbar.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/django_debug_toolbar.egg-info/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/django_debug_toolbar.egg-info/not-zip-safe" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/django_debug_toolbar.egg-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/pip-egg-info/django_debug_toolbar.egg-info/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/pip-egg-info/django_debug_toolbar.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/pip-egg-info/django_debug_toolbar.egg-info/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/pip-egg-info/django_debug_toolbar.egg-info/not-zip-safe" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/pip-egg-info/django_debug_toolbar.egg-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/setup.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/setup.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/tests/.___init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/tests/._urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/tests/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/tests/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-debug-toolbar/tests/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/browserid.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/angel.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/behance.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/bitbucket.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/dailymotion.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/disqus.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/douban.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/dropbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/evernote.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/fitbit.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/flickr.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/foursquare.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/gae.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/github.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/instagram.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/linkedin.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/live.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/livejournal.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/mailru.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/mixcloud.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/odnoklassniki.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/orkut.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/shopify.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/skyrock.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/soundcloud.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/stocktwits.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/tripit.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/twilio.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/vkontakte.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/weibo.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/xing.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/yahoo.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/yammer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/yammer_staging.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/contrib/yandex.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/facebook.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/google.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/pipeline/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/pipeline/associate.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/pipeline/misc.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/pipeline/social.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/pipeline/user.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/stripe.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/twitter.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/backends/yahoo.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/context_processors.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/db/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/db/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/db/django_models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/db/mongoengine_models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/decorators.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/fields.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/middleware.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/signals.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/store.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/build/lib.linux-x86_64-2.7/social_auth/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/django_social_auth.egg-info/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/django-social-auth/django_social_auth.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/gnotty/Gnotty.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/gnotty/pip-egg-info/Gnotty.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/oauth2/build/lib.linux-x86_64-2.7/oauth2/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/oauth2/build/lib.linux-x86_64-2.7/oauth2/_version.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/oauth2/build/lib.linux-x86_64-2.7/oauth2/clients/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/oauth2/build/lib.linux-x86_64-2.7/oauth2/clients/imap.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/oauth2/build/lib.linux-x86_64-2.7/oauth2/clients/smtp.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/oauth2/build/lib.linux-x86_64-2.7/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/oauth2/build/lib.linux-x86_64-2.7/tests/test_oauth.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/MANIFEST.in" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/NEWS" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/NOTICE" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/README" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/builddiscover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/fixperms" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/gettlds.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/makechangelog" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/makedoc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/pythonsource" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/runtests" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/setversion" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/admin/tagrelease" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/background-associations.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/association.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/consumer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/consumer/consumer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/consumer/discover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/consumer/html_parse.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/cryptutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/dh.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/extension.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/extensions/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/extensions/ax.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/extensions/draft/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/extensions/draft/pape2.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/extensions/draft/pape5.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/extensions/sreg.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/fetchers.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/kvform.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/message.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/oidutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/server/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/server/server.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/server/trustroot.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/sreg.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/store/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/store/filestore.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/store/interface.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/store/memstore.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/store/nonce.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/store/sqlstore.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/urinorm.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/accept.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/discover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/etxrd.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/manager.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/parsehtml.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/services.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/xri.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/build/lib.linux-x86_64-2.7/openid/yadis/xrires.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/contrib/associate" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/contrib/openid-parse" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/contrib/upgrade-store-1.1-to-2.0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/README" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/consumer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/discover" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/README" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/consumer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/consumer/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/consumer/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/consumer/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/server/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/server/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/server/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/server/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/server/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/consumer/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/consumer/request_form.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/server/endpoint.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/server/idPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/server/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/server/pape_request_info.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/server/trust.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/templates/xrds.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/djopenid/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/examples/server.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/association.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/consumer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/consumer/consumer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/consumer/discover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/consumer/html_parse.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/cryptutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/dh.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/extension.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/extensions/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/extensions/ax.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/extensions/draft/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/extensions/draft/pape2.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/extensions/draft/pape5.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/extensions/sreg.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/fetchers.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/kvform.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/message.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/oidutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/server/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/server/server.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/server/trustroot.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/sreg.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/store/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/store/filestore.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/store/interface.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/store/memstore.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/store/nonce.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/store/sqlstore.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/cryptutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/accept.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/example-xrds.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/openid-1.2-consumer-sqlitestore.db" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test1-discover.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test1-parsehtml.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid2_xrds.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid2_xrds_no_local_id.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid_1_and_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid_1_and_2_xrds.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid_1_and_2_xrds_bad_delegate.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid_and_yadis.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/openid_no_delegate.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_0entries.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_2_bad_local_id.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_2entries_delegate.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_2entries_idp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_another_delegate.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_idp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_idp_delegate.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_discover/yadis_no_delegate.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/README" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/delegated-20060809-r1.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/delegated-20060809-r2.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/delegated-20060809.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/no-xrd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/not-xrds.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/prefixsometimes.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/ref.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/sometimesprefix.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/spoof1.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/spoof2.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/spoof3.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/status222.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/subsegments.xrds" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/test_etxrd/valid-populated-xrds.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/data/trustroot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/datadriven.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/dh.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/dhpriv" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/discoverdata.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/kvform.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/linkparse.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/linkparse.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/n2b64" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/oidutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/storetest.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/support.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_accept.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_association.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_association_response.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_auth_request.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_ax.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_consumer.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_discover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_etxrd.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_examples.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_extension.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_fetchers.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_htmldiscover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_message.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_negotiation.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_nonce.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_openidyadis.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_pape.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_pape_draft2.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_pape_draft5.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_parsehtml.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_rpverify.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_server.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_services.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_sreg.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_symbol.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_urinorm.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_verifydisco.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_xri.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_xrires.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/test_yadis_discover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/trustroot.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/test/urinorm.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/urinorm.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/accept.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/discover.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/etxrd.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/manager.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/parsehtml.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/services.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/xri.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/openid/yadis/xrires.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/pip-egg-info/python_openid.egg-info/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/pip-egg-info/python_openid.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/pip-egg-info/python_openid.egg-info/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/pip-egg-info/python_openid.egg-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/python_openid.egg-info/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/python_openid.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/python_openid.egg-info/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/python_openid.egg-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/setup.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/build/python-openid/setup.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/fein_tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/fein_tree.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/frontend_editing.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/frontend_editing.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/ie_compat.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/arrow-move.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/contenttypes.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/default-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/disclosure-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/disclosure-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/drag_order_circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/help.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/icon-no.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/icon-unknown.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/icon-yes.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/icon_addlink.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/icon_deletelink.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/important.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/info.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/item_editor_form_title.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/nav-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/selector-search.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/title.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/img/wrench.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/item_editor.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/jquery-ui-1.8.16.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/jquery.alerts.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/jquery.json-1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/feincms/toolbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/filecontent/SDM.pkg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/Elwira/BinaryTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/Elwira/Complex.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/Elwira/newton.sce" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/Elwira/siszarp.cs" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/Piotrek/pit.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/Piotrus2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/aaaa" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/ads" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/as" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/as_1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/asdad" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/asdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/asdf_1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/asdg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/csh" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fasdfsadf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fdsf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fdsfff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fdsffff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fdsfffff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fdsfffffa" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fjklsdjdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fjklsdjdf1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fsadfasdf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/fsadsfs" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/gadsgas" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/gfd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/htmlowe" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/kicia.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/kj" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/kod" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/kod.c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/ostatni" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/pyt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/test2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/admin/vxnjks" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/highlight/static/file.sh" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/medialibrary/2012/12/test.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/psi_project/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/database.sq3" afterPath="$USER_HOME$/projects/psi_project/database.sq3" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/fein_cms/templates/base.html" afterPath="$USER_HOME$/projects/psi_project/fein_cms/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" afterPath="$USER_HOME$/projects/psi_project/.idea/fein_cms.iml" />
+    <list default="true" id="25080576-dabf-4d76-b214-9c3402cf924b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/hellodjango.iml" afterPath="$PROJECT_DIR$/.idea/hellodjango.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party/models.py" afterPath="$PROJECT_DIR$/party/models.py" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/fein_cms/templates/registration/register.html" afterPath="$USER_HOME$/projects/psi_project/fein_cms/templates/registration/register.html" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/fein_cms/settings.py" afterPath="$USER_HOME$/projects/psi_project/fein_cms/settings.py" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/psi_project/fein_cms/templates/highlight/show.html" afterPath="$USER_HOME$/projects/psi_project/fein_cms/templates/highlight/show.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/party/views.py" afterPath="$PROJECT_DIR$/party/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -593,58 +30,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/party/views.py">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/party/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="61" selection-start="939" selection-end="939" vertical-scroll-proportion="-0.9230769" vertical-offset="300" max-vertical-offset="1305">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manage.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hellodjango/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1950">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/party/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+            <state line="17" column="22" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="825">
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serializers.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/party/serializers.py">
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/party/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="20" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/party/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-              <folding />
+            <state line="23" column="11" selection-start="778" selection-end="778" vertical-scroll-proportion="0.47368422" vertical-offset="75" max-vertical-offset="1320">
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -667,21 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$USER_HOME$/tutorial/snippets/serializers.py" />
-        <option value="$USER_HOME$/tutorial/tutorial/settings.py" />
-        <option value="$USER_HOME$/tutorial/snippets/views.py" />
-        <option value="$USER_HOME$/tutorial/snippets/urls.py" />
-        <option value="$PROJECT_DIR$/auth/urls.py" />
-        <option value="$PROJECT_DIR$/auth/views.py" />
-        <option value="$PROJECT_DIR$/hellodjango/urls.py" />
-        <option value="$PROJECT_DIR$/hellodjango/settings.py" />
-        <option value="$PROJECT_DIR$/gps/utils.py" />
-        <option value="$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/django/dispatch/__init__.py" />
-        <option value="$USER_HOME$/Desktop/ziarkowskiNLPIV/test.py" />
-        <option value="$USER_HOME$/Desktop/ziarkowskiNLPIV/sentimenter.py" />
-        <option value="$PROJECT_DIR$/party/serializers.py" />
-        <option value="$PROJECT_DIR$/party/urls.py" />
-        <option value="$PROJECT_DIR$/party/models.py" />
         <option value="$PROJECT_DIR$/party/views.py" />
       </list>
     </option>
@@ -692,7 +80,7 @@
     <option name="width" value="1533" />
     <option name="height" value="726" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -718,7 +106,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -751,273 +138,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hellodjango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="editor.preferences.import" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ziarkowskiNLPIV" />
-    <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-  </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <PyConsoleSettings />
-    </option>
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/party" />
-    </key>
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spamLord" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hellodjango" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hellodjango" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hellodjango" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hellodjango" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hellodjango" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hellodjango" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="hellodjango" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="hellodjango.settings" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hellodjango" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5f65700f-30e4-499c-95f4-b90ad8fd513b" name="Default" comment="" />
-      <created>1388088629384</created>
-      <updated>1388088629384</updated>
+      <changelist id="25080576-dabf-4d76-b214-9c3402cf924b" name="Default" comment="" />
+      <created>1393847915501</created>
+      <updated>1393847915501</updated>
     </task>
-    <task id="LOCAL-00001" summary="Changed model">
-      <created>1389111946119</created>
-      <updated>1389111946119</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Changed model">
-      <created>1389112294189</created>
-      <updated>1389112294189</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Test views">
-      <created>1389112569978</created>
-      <updated>1389112569978</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Test views">
-      <created>1389112825084</created>
-      <updated>1389112825084</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Null data">
-      <created>1392942105225</created>
-      <updated>1392942105225</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1533" height="726" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15545395" sideWeight="0.6828047" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22795558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31719533" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1027,115 +188,42 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Changed model" />
-    <MESSAGE value="Test views" />
-    <MESSAGE value="Null data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Null data" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/party/views.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="2" />
-    </breakpoint-manager>
+    <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/tutorial/snippets/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="496" selection-end="496" vertical-scroll-proportion="0.2631579" vertical-offset="0" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/projects/psi_project/fein_cms/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1086" selection-end="1332" vertical-scroll-proportion="-9.0" vertical-offset="315" max-vertical-offset="975" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/tutorial/snippets/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="22" selection-start="987" selection-end="987" vertical-scroll-proportion="0.35914552" vertical-offset="76" max-vertical-offset="825" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hellodjango/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/rest_framework/compat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="10" selection-start="2293" selection-end="2293" vertical-scroll-proportion="0.028790787" vertical-offset="1320" max-vertical-offset="8595" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/rest_framework/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="16" selection-start="3577" selection-end="3577" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="6300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/django/dispatch/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ziarkowskiNLPIV/sentimenter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.32894737" vertical-offset="835" max-vertical-offset="1845" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ziarkowskiNLPIV/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party/gps/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="77" selection-end="86" vertical-scroll-proportion="0.10526316" vertical-offset="0" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/party/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/party/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/party/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="61" selection-start="939" selection-end="939" vertical-scroll-proportion="-0.9230769" vertical-offset="300" max-vertical-offset="1305">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$PROJECT_DIR$/party/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hellodjango/settings.py">
+    <entry file="file://$PROJECT_DIR$/party/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1950">
-          <folding />
+        <state line="17" column="22" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="825">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/party/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="11" selection-start="778" selection-end="778" vertical-scroll-proportion="0.47368422" vertical-offset="75" max-vertical-offset="1320">
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

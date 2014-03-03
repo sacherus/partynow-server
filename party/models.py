@@ -1,13 +1,21 @@
 from django.db import models
-import datetime
+from datetime import datetime
 from gps.utils import haversine
 # Create your models here.
 from django.contrib.auth.models import User
 
 class PartyManager(models.Manager):
-    def in_area(self, kms, long, lat):
-        return [party for party in self.all() if party.distance(long, lat) < kms]
+    def get_queryset(self):
+        return super(PartyManager, self).get_queryset().filter(end__gte=datetime.now())
 
+    def active(self):
+        return self.all().filter(end__gte=datetime.now())
+
+    def in_area(self, kms, long, lat):
+        return [party for party in self.active() if party.distance(long, lat) < kms]
+
+    def inactive(self):
+        return self.all().filter(end__lte=datetime.now())
 
 class Party(models.Model):
     participants = models.ManyToManyField(User, blank=True, null=True, related_name="organize_party_set")
